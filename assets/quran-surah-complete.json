@@ -1,0 +1,914 @@
+[
+  {
+    "nomor": 1,
+    "nama": "الفاتحة",
+    "latin": "Al-Fatihah",
+    "jumlah_ayat": 7,
+    "arti": "Pembukaan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 2,
+    "nama": "البقرة",
+    "latin": "Al-Baqarah",
+    "jumlah_ayat": 286,
+    "arti": "Sapi Betina",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 3,
+    "nama": "آل عمران",
+    "latin": "Ali Imran",
+    "jumlah_ayat": 200,
+    "arti": "Keluarga Imran",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 4,
+    "nama": "النساء",
+    "latin": "An-Nisa",
+    "jumlah_ayat": 176,
+    "arti": "Wanita",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 5,
+    "nama": "المائدة",
+    "latin": "Al-Ma'idah",
+    "jumlah_ayat": 120,
+    "arti": "Hidangan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 6,
+    "nama": "الأنعام",
+    "latin": "Al-An'am",
+    "jumlah_ayat": 165,
+    "arti": "Binatang Ternak",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 7,
+    "nama": "الأعراف",
+    "latin": "Al-A'raf",
+    "jumlah_ayat": 206,
+    "arti": "Tempat Tertinggi",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 8,
+    "nama": "الأنفال",
+    "latin": "Al-Anfal",
+    "jumlah_ayat": 75,
+    "arti": "Rampasan Perang",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 9,
+    "nama": "التوبة",
+    "latin": "At-Taubah",
+    "jumlah_ayat": 129,
+    "arti": "Taubat",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 10,
+    "nama": "يونس",
+    "latin": "Yunus",
+    "jumlah_ayat": 109,
+    "arti": "Yunus",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 11,
+    "nama": "هود",
+    "latin": "Hud",
+    "jumlah_ayat": 123,
+    "arti": "Hud",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 12,
+    "nama": "يوسف",
+    "latin": "Yusuf",
+    "jumlah_ayat": 111,
+    "arti": "Yusuf",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 13,
+    "nama": "الرعد",
+    "latin": "Ar-Ra'd",
+    "jumlah_ayat": 43,
+    "arti": "Guntur",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 14,
+    "nama": "ابراهيم",
+    "latin": "Ibrahim",
+    "jumlah_ayat": 52,
+    "arti": "Ibrahim",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 15,
+    "nama": "الحجر",
+    "latin": "Al-Hijr",
+    "jumlah_ayat": 99,
+    "arti": "Bukit",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 16,
+    "nama": "النحل",
+    "latin": "An-Nahl",
+    "jumlah_ayat": 128,
+    "arti": "Lebah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 17,
+    "nama": "الإسراء",
+    "latin": "Al-Isra",
+    "jumlah_ayat": 111,
+    "arti": "Perjalanan Malam",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 18,
+    "nama": "الكهف",
+    "latin": "Al-Kahf",
+    "jumlah_ayat": 110,
+    "arti": "Gua",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 19,
+    "nama": "مريم",
+    "latin": "Maryam",
+    "jumlah_ayat": 98,
+    "arti": "Maryam",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 20,
+    "nama": "طه",
+    "latin": "Taha",
+    "jumlah_ayat": 135,
+    "arti": "Taha",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 21,
+    "nama": "الأنبياء",
+    "latin": "Al-Anbiya",
+    "jumlah_ayat": 112,
+    "arti": "Para Nabi",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 22,
+    "nama": "الحج",
+    "latin": "Al-Hajj",
+    "jumlah_ayat": 78,
+    "arti": "Haji",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 23,
+    "nama": "المؤمنون",
+    "latin": "Al-Mu'minun",
+    "jumlah_ayat": 118,
+    "arti": "Orang-orang Mukmin",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 24,
+    "nama": "النور",
+    "latin": "An-Nur",
+    "jumlah_ayat": 64,
+    "arti": "Cahaya",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 25,
+    "nama": "الفرقان",
+    "latin": "Al-Furqan",
+    "jumlah_ayat": 77,
+    "arti": "Pembeda",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 26,
+    "nama": "الشعراء",
+    "latin": "Asy-Syu'ara",
+    "jumlah_ayat": 227,
+    "arti": "Para Penyair",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 27,
+    "nama": "النمل",
+    "latin": "An-Naml",
+    "jumlah_ayat": 93,
+    "arti": "Semut",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 28,
+    "nama": "القصص",
+    "latin": "Al-Qasas",
+    "jumlah_ayat": 88,
+    "arti": "Kisah-kisah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 29,
+    "nama": "العنكبوت",
+    "latin": "Al-'Ankabut",
+    "jumlah_ayat": 69,
+    "arti": "Laba-laba",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 30,
+    "nama": "الروم",
+    "latin": "Ar-Rum",
+    "jumlah_ayat": 60,
+    "arti": "Bangsa Romawi",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 31,
+    "nama": "لقمان",
+    "latin": "Luqman",
+    "jumlah_ayat": 34,
+    "arti": "Luqman",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 32,
+    "nama": "السجدة",
+    "latin": "As-Sajdah",
+    "jumlah_ayat": 30,
+    "arti": "Sujud",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 33,
+    "nama": "الأحزاب",
+    "latin": "Al-Ahzab",
+    "jumlah_ayat": 73,
+    "arti": "Golongan-golongan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 34,
+    "nama": "سبإ",
+    "latin": "Saba",
+    "jumlah_ayat": 54,
+    "arti": "Saba",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 35,
+    "nama": "فاطر",
+    "latin": "Fatir",
+    "jumlah_ayat": 45,
+    "arti": "Pencipta",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 36,
+    "nama": "يس",
+    "latin": "Yasin",
+    "jumlah_ayat": 83,
+    "arti": "Yasin",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 37,
+    "nama": "الصافات",
+    "latin": "As-Saffat",
+    "jumlah_ayat": 182,
+    "arti": "Barisan-barisan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 38,
+    "nama": "ص",
+    "latin": "Sad",
+    "jumlah_ayat": 88,
+    "arti": "Sad",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 39,
+    "nama": "الزمر",
+    "latin": "Az-Zumar",
+    "jumlah_ayat": 75,
+    "arti": "Rombongan-rombongan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 40,
+    "nama": "غافر",
+    "latin": "Ghafir",
+    "jumlah_ayat": 85,
+    "arti": "Maha Pengampun",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 41,
+    "nama": "فصلت",
+    "latin": "Fussilat",
+    "jumlah_ayat": 54,
+    "arti": "Yang Dijelaskan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 42,
+    "nama": "الشورى",
+    "latin": "Asy-Syura",
+    "jumlah_ayat": 53,
+    "arti": "Musyawarah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 43,
+    "nama": "الزخرف",
+    "latin": "Az-Zukhruf",
+    "jumlah_ayat": 89,
+    "arti": "Perhiasan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 44,
+    "nama": "الدخان",
+    "latin": "Ad-Dukhan",
+    "jumlah_ayat": 59,
+    "arti": "Kabut",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 45,
+    "nama": "الجاثية",
+    "latin": "Al-Jatsiyah",
+    "jumlah_ayat": 37,
+    "arti": "Yang Berlutut",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 46,
+    "nama": "الأحقاف",
+    "latin": "Al-Ahqaf",
+    "jumlah_ayat": 35,
+    "arti": "Bukit-bukit Pasir",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 47,
+    "nama": "محمد",
+    "latin": "Muhammad",
+    "jumlah_ayat": 38,
+    "arti": "Muhammad",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 48,
+    "nama": "الفتح",
+    "latin": "Al-Fath",
+    "jumlah_ayat": 29,
+    "arti": "Kemenangan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 49,
+    "nama": "الحجرات",
+    "latin": "Al-Hujurat",
+    "jumlah_ayat": 18,
+    "arti": "Kamar-kamar",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 50,
+    "nama": "ق",
+    "latin": "Qaf",
+    "jumlah_ayat": 45,
+    "arti": "Qaf",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 51,
+    "nama": "الذاريات",
+    "latin": "Adz-Dzariyat",
+    "jumlah_ayat": 60,
+    "arti": "Angin yang Menerbangkan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 52,
+    "nama": "الطور",
+    "latin": "At-Tur",
+    "jumlah_ayat": 49,
+    "arti": "Bukit",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 53,
+    "nama": "النجم",
+    "latin": "An-Najm",
+    "jumlah_ayat": 62,
+    "arti": "Bintang",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 54,
+    "nama": "القمر",
+    "latin": "Al-Qamar",
+    "jumlah_ayat": 55,
+    "arti": "Bulan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 55,
+    "nama": "الرحمن",
+    "latin": "Ar-Rahman",
+    "jumlah_ayat": 78,
+    "arti": "Maha Pengasih",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 56,
+    "nama": "الواقعة",
+    "latin": "Al-Waqi'ah",
+    "jumlah_ayat": 96,
+    "arti": "Hari Kiamat",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 57,
+    "nama": "الحديد",
+    "latin": "Al-Hadid",
+    "jumlah_ayat": 29,
+    "arti": "Besi",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 58,
+    "nama": "المجادلة",
+    "latin": "Al-Mujadilah",
+    "jumlah_ayat": 22,
+    "arti": "Wanita yang Mengajukan Gugatan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 59,
+    "nama": "الحشر",
+    "latin": "Al-Hasyr",
+    "jumlah_ayat": 24,
+    "arti": "Pengusiran",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 60,
+    "nama": "الممتحنة",
+    "latin": "Al-Mumtahanah",
+    "jumlah_ayat": 13,
+    "arti": "Wanita yang Diuji",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 61,
+    "nama": "الصف",
+    "latin": "As-Saff",
+    "jumlah_ayat": 14,
+    "arti": "Barisan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 62,
+    "nama": "الجمعة",
+    "latin": "Al-Jumu'ah",
+    "jumlah_ayat": 11,
+    "arti": "Hari Jumat",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 63,
+    "nama": "المنافقون",
+    "latin": "Al-Munafiqun",
+    "jumlah_ayat": 11,
+    "arti": "Orang-orang Munafik",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 64,
+    "nama": "التغابن",
+    "latin": "At-Taghabun",
+    "jumlah_ayat": 18,
+    "arti": "Hari Ditampakkan Kesalahan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 65,
+    "nama": "الطلاق",
+    "latin": "At-Talaq",
+    "jumlah_ayat": 12,
+    "arti": "Talak",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 66,
+    "nama": "التحريم",
+    "latin": "At-Tahrim",
+    "jumlah_ayat": 12,
+    "arti": "Pengharaman",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 67,
+    "nama": "الملك",
+    "latin": "Al-Mulk",
+    "jumlah_ayat": 30,
+    "arti": "Kerajaan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 68,
+    "nama": "القلم",
+    "latin": "Al-Qalam",
+    "jumlah_ayat": 52,
+    "arti": "Pena",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 69,
+    "nama": "الحاقة",
+    "latin": "Al-Haqqah",
+    "jumlah_ayat": 52,
+    "arti": "Kenyataan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 70,
+    "nama": "المعارج",
+    "latin": "Al-Ma'arij",
+    "jumlah_ayat": 44,
+    "arti": "Tempat Naik",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 71,
+    "nama": "نوح",
+    "latin": "Nuh",
+    "jumlah_ayat": 28,
+    "arti": "Nuh",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 72,
+    "nama": "الجن",
+    "latin": "Al-Jinn",
+    "jumlah_ayat": 28,
+    "arti": "Jin",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 73,
+    "nama": "المزمل",
+    "latin": "Al-Muzzammil",
+    "jumlah_ayat": 20,
+    "arti": "Orang yang Berselimut",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 74,
+    "nama": "المدثر",
+    "latin": "Al-Muddassir",
+    "jumlah_ayat": 56,
+    "arti": "Orang yang Berkemul",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 75,
+    "nama": "القيامة",
+    "latin": "Al-Qiyamah",
+    "jumlah_ayat": 40,
+    "arti": "Hari Kiamat",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 76,
+    "nama": "الإنسان",
+    "latin": "Al-Insan",
+    "jumlah_ayat": 31,
+    "arti": "Manusia",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 77,
+    "nama": "المرسلات",
+    "latin": "Al-Mursalat",
+    "jumlah_ayat": 50,
+    "arti": "Malaikat-malaikat yang Diutus",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 78,
+    "nama": "النبأ",
+    "latin": "An-Naba",
+    "jumlah_ayat": 40,
+    "arti": "Berita Besar",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 79,
+    "nama": "النازعات",
+    "latin": "An-Nazi'at",
+    "jumlah_ayat": 46,
+    "arti": "Malaikat-malaikat yang Mencabut",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 80,
+    "nama": "عبس",
+    "latin": "Abasa",
+    "jumlah_ayat": 42,
+    "arti": "Ia Bermuka Masam",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 81,
+    "nama": "التكوير",
+    "latin": "At-Takwir",
+    "jumlah_ayat": 29,
+    "arti": "Menggulung",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 82,
+    "nama": "الإنفطار",
+    "latin": "Al-Infitar",
+    "jumlah_ayat": 19,
+    "arti": "Terbelah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 83,
+    "nama": "المطففين",
+    "latin": "Al-Mutaffifin",
+    "jumlah_ayat": 36,
+    "arti": "Orang-orang yang Curang",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 84,
+    "nama": "الإنشقاق",
+    "latin": "Al-Insyiqaq",
+    "jumlah_ayat": 25,
+    "arti": "Terbelah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 85,
+    "nama": "البروج",
+    "latin": "Al-Buruj",
+    "jumlah_ayat": 22,
+    "arti": "Gugusan Bintang",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 86,
+    "nama": "الطارق",
+    "latin": "At-Tariq",
+    "jumlah_ayat": 17,
+    "arti": "Yang Datang di Malam Hari",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 87,
+    "nama": "الأعلى",
+    "latin": "Al-A'la",
+    "jumlah_ayat": 19,
+    "arti": "Yang Maha Tinggi",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 88,
+    "nama": "الغاشية",
+    "latin": "Al-Ghasyiyah",
+    "jumlah_ayat": 26,
+    "arti": "Hari Kiamat",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 89,
+    "nama": "الفجر",
+    "latin": "Al-Fajr",
+    "jumlah_ayat": 30,
+    "arti": "Fajar",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 90,
+    "nama": "البلد",
+    "latin": "Al-Balad",
+    "jumlah_ayat": 20,
+    "arti": "Negeri",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 91,
+    "nama": "الشمس",
+    "latin": "Asy-Syams",
+    "jumlah_ayat": 15,
+    "arti": "Matahari",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 92,
+    "nama": "الليل",
+    "latin": "Al-Lail",
+    "jumlah_ayat": 21,
+    "arti": "Malam",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 93,
+    "nama": "الضحى",
+    "latin": "Ad-Duha",
+    "jumlah_ayat": 11,
+    "arti": "Waktu Dhuha",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 94,
+    "nama": "الشرح",
+    "latin": "Asy-Syarh",
+    "jumlah_ayat": 8,
+    "arti": "Melapangkan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 95,
+    "nama": "التين",
+    "latin": "At-Tin",
+    "jumlah_ayat": 8,
+    "arti": "Buah Tin",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 96,
+    "nama": "العلق",
+    "latin": "Al-'Alaq",
+    "jumlah_ayat": 19,
+    "arti": "Segumpal Darah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 97,
+    "nama": "القدر",
+    "latin": "Al-Qadr",
+    "jumlah_ayat": 5,
+    "arti": "Kemuliaan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 98,
+    "nama": "البينة",
+    "latin": "Al-Bayyinah",
+    "jumlah_ayat": 8,
+    "arti": "Bukti Nyata",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 99,
+    "nama": "الزلزلة",
+    "latin": "Az-Zalzalah",
+    "jumlah_ayat": 8,
+    "arti": "Kegoncangan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 100,
+    "nama": "العاديات",
+    "latin": "Al-'Adiyat",
+    "jumlah_ayat": 11,
+    "arti": "Kuda Perang yang Berlari Kencang",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 101,
+    "nama": "القارعة",
+    "latin": "Al-Qari'ah",
+    "jumlah_ayat": 11,
+    "arti": "Hari Kiamat",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 102,
+    "nama": "التكاثر",
+    "latin": "At-Takatsur",
+    "jumlah_ayat": 8,
+    "arti": "Bermegah-megahan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 103,
+    "nama": "العصر",
+    "latin": "Al-'Asr",
+    "jumlah_ayat": 3,
+    "arti": "Waktu",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 104,
+    "nama": "الهمزة",
+    "latin": "Al-Humazah",
+    "jumlah_ayat": 9,
+    "arti": "Pengumpat",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 105,
+    "nama": "الفيل",
+    "latin": "Al-Fil",
+    "jumlah_ayat": 5,
+    "arti": "Gajah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 106,
+    "nama": "قريش",
+    "latin": "Quraisy",
+    "jumlah_ayat": 4,
+    "arti": "Suku Quraisy",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 107,
+    "nama": "الماعون",
+    "latin": "Al-Ma'un",
+    "jumlah_ayat": 7,
+    "arti": "Barang yang Berguna",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 108,
+    "nama": "الكوثر",
+    "latin": "Al-Kautsar",
+    "jumlah_ayat": 3,
+    "arti": "Nikmat yang Berlimpah",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 109,
+    "nama": "الكافرون",
+    "latin": "Al-Kafirun",
+    "jumlah_ayat": 6,
+    "arti": "Orang-orang Kafir",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 110,
+    "nama": "النصر",
+    "latin": "An-Nasr",
+    "jumlah_ayat": 3,
+    "arti": "Pertolongan",
+    "tempat_turun": "Madinah"
+  },
+  {
+    "nomor": 111,
+    "nama": "اللهب",
+    "latin": "Al-Lahab",
+    "jumlah_ayat": 5,
+    "arti": "Nyala Api",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 112,
+    "nama": "الإخلاص",
+    "latin": "Al-Ikhlas",
+    "jumlah_ayat": 4,
+    "arti": "Kemurnian Keimanan",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 113,
+    "nama": "الفلق",
+    "latin": "Al-Falaq",
+    "jumlah_ayat": 5,
+    "arti": "Waktu Subuh",
+    "tempat_turun": "Mekah"
+  },
+  {
+    "nomor": 114,
+    "nama": "الناس",
+    "latin": "An-Nas",
+    "jumlah_ayat": 6,
+    "arti": "Manusia",
+    "tempat_turun": "Mekah"
+  }
+]
