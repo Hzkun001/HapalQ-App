@@ -67,4 +67,4 @@ Lisensi bebas untuk edukasi dan non-komersial.
 
 ---
 
-**Kontak**: [your-email@example.com] (ganti sesuai kontak Anda)
+**Kontak**: hz.sans2298@gmail.com]
