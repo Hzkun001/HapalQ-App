@@ -15,7 +15,12 @@ dependencies:
   http: ^0.13.5
   intl: ^0.18.0
   cupertino_icons: ^1.0.8
-
+  just_audio: ^0.10.4
+  flutter_svg: ^2.0.9
+  hijri: ^3.0.0
+  flutter_qiblah: ^3.0.3
+  flutter_compass: ^0.8.1
+  hijri_calendar: ^1.0.7+7
 
 dev_dependencies:
   flutter_test:
@@ -23,7 +28,7 @@ dev_dependencies:
   flutter_lints: ^5.0.0
 
 flutter:
+  assets:
+    - assets/
   uses-material-design: true
 
-  assets:
-    - assets/quran-surah-complete.json

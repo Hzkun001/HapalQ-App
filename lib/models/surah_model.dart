@@ -19,13 +19,13 @@ class Surah {
 
   factory Surah.fromJson(Map<String, dynamic> json) {
     return Surah(
-      number: json['nomor'],
-      name: json['nama'],
-      arabic: json['nama'], // bisa dipisah kalau ada field khusus arab
-      latin: json['latin'],
+      number: int.parse(json['nomor'].toString()),
+      name: json['nama_latin'],
+      arabic: json['nama'],
+      latin: json['nama_latin'],
       ayahCount: json['jumlah_ayat'],
       translation: json['arti'],
-      type: json['tempat_turun'], // gunakan 'type' jika itu nama field JSON kamu
+      type: json['tempat_turun'],
     );
   }
 }
